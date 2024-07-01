@@ -6,4 +6,4 @@ recipes page. Hopefully, with this project I will hone, as I mentioned before, m
 a solid foundation for furthering my web development skills.
 
 For my final thoughts, I can say that, finally, I truly understand the value of best practices and being very attentive to details,
-for example, with the privacy attributes in the <a> elements.
+for example, with the privacy attributes in the <a> elements. In a second working of the page, I added CSS style to the pages, in an attempt to enhance their appeal to the viewer.
